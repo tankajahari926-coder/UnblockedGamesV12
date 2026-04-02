@@ -59,10 +59,6 @@ export default function App() {
             </div>
 
             <div className="flex items-center gap-4">
-              <button className="text-sm font-medium hover:text-indigo-400 transition-colors">About</button>
-              <button className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-full text-sm font-medium transition-all shadow-lg shadow-indigo-500/20">
-                Submit Game
-              </button>
             </div>
           </div>
         </div>
