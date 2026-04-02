@@ -193,6 +193,7 @@ export default function App() {
                   className="w-full h-full border-none"
                   title={selectedGame.title}
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+                  sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads allow-storage-access-by-user-activation"
                   referrerPolicy="no-referrer"
                 />
               </div>
