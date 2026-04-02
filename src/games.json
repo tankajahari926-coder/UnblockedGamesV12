@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=400&h=300&fit=crop",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop",
+    "iframeUrl": "https://hextris.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "doodle-jump",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can in this classic platformer.",
+    "thumbnail": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=400&h=300&fit=crop",
+    "iframeUrl": "https://doodlejump.io/",
+    "category": "Platformer"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Navigate through the pipes without crashing.",
+    "thumbnail": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=400&h=300&fit=crop",
+    "iframeUrl": "https://flappybird.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball down a high-speed slope.",
+    "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=300&fit=crop",
+    "iframeUrl": "https://slopegame.io/",
+    "category": "Action"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "description": "The original creative mode in your browser.",
+    "thumbnail": "https://images.unsplash.com/photo-1607988523113-231d66565836?w=400&h=300&fit=crop",
+    "iframeUrl": "https://classic.minecraft.net/",
+    "category": "Sandbox"
+  }
+]
